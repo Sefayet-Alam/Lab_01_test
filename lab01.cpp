@@ -303,7 +303,7 @@ int main()
 
     while (t--)
     {
-      
+      cout<<t<<nn;
     }
 
     return 0;
